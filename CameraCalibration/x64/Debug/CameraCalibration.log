@@ -1,0 +1,21 @@
+﻿  main.cpp
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:         with
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:         [
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:             _Tp=int
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:         ]
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:         and
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:         [
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:             _Tp=float
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(75,15): warning C4244:         ]
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:  “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:         with
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:         [
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:             _Tp=int
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:         ]
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:         and
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:         [
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:             _Tp=float
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(76,15): warning C4244:         ]
+E:\opencv\CameraCalibration\CameraCalibration\main.cpp(138,45): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CameraCalibration.vcxproj -> E:\opencv\CameraCalibration\x64\Debug\CameraCalibration.exe
